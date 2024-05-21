@@ -16,6 +16,6 @@
 - CSS
 - JavaScript
 
-- ## 💻 Projeto
+## 💻 Projeto
 Disponível em: 🔗[AluraMidi, clique aqui!](https://aluramidi-mm.vercel.app/)</br>
 
