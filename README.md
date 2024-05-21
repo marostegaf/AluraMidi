@@ -17,5 +17,5 @@
 - JavaScript
 
 - ## 💻 Projeto
-Disponível em: 🔗[AluraMidi, clique aqui!]()</br>
+Disponível em: 🔗[AluraMidi, clique aqui!](https://aluramidi-mm.vercel.app/)</br>
 
